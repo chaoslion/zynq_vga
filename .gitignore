@@ -1,3 +1,6 @@
+Hardware/hdl/*
+Hardware/__xps/*
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db

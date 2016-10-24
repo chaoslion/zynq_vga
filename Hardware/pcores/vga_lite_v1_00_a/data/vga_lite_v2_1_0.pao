@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          /afs/tu-berlin.de/home/a/alexander.jaehnel/irb-ubuntu/aes/zedvga/ZedBoard_Linux_Design/hw/xps_proj/pcores/vga_lite_v1_00_a/data/vga_lite_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Fri Jan 24 13:48:46 2014 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib vga_lite_v1_00_a user_logic vhdl
+lib vga_lite_v1_00_a vga_lite vhdl
